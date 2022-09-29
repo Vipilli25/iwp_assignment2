@@ -1,0 +1,30 @@
+{
+  "albums"  : 
+  [ 
+   {
+   "entity": "Countries",
+   "images": ["<https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Flargest-cities-in-india-1435045&psig=AOvVaw1NMLTnOR6MEp-e05LvWp5A&ust=1664536875020000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCID9-JvxufoCFQAAAAAdAAAAABAD, https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thoughtco.com%2Flargest-cities-in-india-1435045&psig=AOvVaw1NMLTnOR6MEp-e05LvWp5A&ust=1664536875020000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCID9-JvxufoCFQAAAAAdAAAAABAD>"],
+   "Desc" : ["<description for image 1>"]
+   },
+   {
+   "entity": "Scientists",
+   "images": ["<image URL 1, image URL 2>"],
+   "Desc" : ["<description for image 1>"]
+   },
+   {
+   "entity": "Sportspersons",
+   "images": ["<image URL 1, image URL 2>"],
+   "Desc" : ["<description for image 1>"]
+   },
+   {
+    "entity": "Movies",
+    "images": ["<image URL 1, image URL 2>"],
+    "Desc" : ["<description for image 1>"]
+    },
+    {
+        "entity": "Institues",
+        "images": ["<image URL 1, image URL 2>"],
+        "Desc" : ["<description for image 1>"]
+        }
+  ]
+}
